@@ -1,0 +1,1 @@
+## This is Namaz Tracking App in React Native
